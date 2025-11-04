@@ -1,6 +1,5 @@
 # St115_Project
-This is my St115 project github repo
-LSE vs UCL STEM Curriculum Analytics
+LSE vs UCL STEM Curriculum Analysis
 
 Overview
 
